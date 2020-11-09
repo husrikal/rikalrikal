@@ -1,0 +1,12 @@
+body{
+	padding-top: 25px
+	padding-left: 15px;
+	padding-right: 15px;
+	background-color: #ecf0f1;
+
+}
+
+p{
+	width: 50%;
+	/*height: 10px;*/
+}
